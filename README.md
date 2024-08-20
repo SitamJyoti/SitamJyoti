@@ -5,7 +5,7 @@
 - Later, I am looking forward to learn Python lang, then try my hand on creating a game about which I'm super excited!
 - 💞️ I’m looking to collaborate on my game project about which I will write soon!
 - 📫 Connect me through my LinkedIn account- https://www.linkedin.com/in/sitam-jyoti-sahoo-444205215
-- ⚡ Fun fact: I am a YouTuber as well. You can watch me on @SitamKun. I make cinematic Vlogging and give productivity tips as well.
+- ⚡ Fun fact: I am a YouTuber as well. You can watch me on @Sitamkun. I make cinematic Vlogging and give productivity tips as well.
 - I had no idea about any computer field before 2023, but after that, I'm learning and keep gonna learn! ⚡⚡
 
 <!---
