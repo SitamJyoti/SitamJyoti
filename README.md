@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Sitam Jyoti Sahoo. A 3rd year B.Tech student.
+- 👋 Hi, I’m Sitam Jyoti Sahoo. A final year B.Tech student.
 - 👀 I’m interested in Machine Learning, Automation and tool building using python.
 - I have learned the C, Python, SQL, HTML, CSS and JS languages.
-- I have also tried UI/UX design and Graphic Design since 2023.
+- I have learned 
 - 📫 Connect me through my LinkedIn account- https://www.linkedin.com/in/sitam-jyoti-sahoo-444205215
-- ⚡ Fun fact: I am a YouTuber as well. You can watch me on @Sitamkun. I make cinematic Vlogging and give productivity tips as well.
+- ⚡ Fun fact: I am a YouTuber as well. You can watch me on @Sitamkun. I make cinematic Vlogging and give productivity tips.
 - I had no idea about any computer field before 2023, but after that, I'm learning and keep gonna learn! ⚡⚡
 
 <!---
